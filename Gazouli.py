@@ -128,9 +128,6 @@ for  i in range(105):
     print((AllBlocks[i]))
 
 
-#print (AllBlocks)
-print("---------------------------")
-        #cellmagnitude = tab[r:r + cellSize_r, c:c + cellSize_c]
-        #celldirection = tab[r:r + cellSize_r, c:c + cellSize_c]
+
 
 
